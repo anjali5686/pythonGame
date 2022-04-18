@@ -1,0 +1,30 @@
+ID,name ,c1,c2,c3,story,nav,win,lose,stranger,bird,weather,item
+1,home,2,6,3,"You are at home, and you are sitting on the couch thinking of great adventure!","press 1 to go to the park, press 2 to go to the hill station and press 3 to go to the port",0,0,1,0,1,1
+2,park,1,6,5,"You are at the park, there are swings and some children are riding it with fun.","press 1 to go home, 2 to go to the hill station, or 3 to go to the restaurant",0,0,0,0,1,0
+3,port,1,4,10,"You are at the port, and admire the loading and unloading of big boxesfrom fancy ships","Press 1 to go back home, press 2 to go to the mountain top, and press 3 to go to the space station",0,0,1,1,0,0
+4,mountain top,2,17,18,You are on the mountain top admiring the sky,"Press 1 to go to the park, Press 2 to go to Shaktiman. Press 3 to go to the city walk",0,0,1,1,0,1
+5,restaurant,2,1,24,You are exhausted and need to have some rest,"press 1 to go to the park, press 2 to go home, press 3 to go the pizza hut",0,0,1,0,0,0
+6,hill station,1,11,19,You are on the hill station watching constellation,Press 1  to go home. Press 2 to go to red planet. Press 3 to go to garage,0,0,1,1,0,1
+7,mythical spring ,1,25,10,"You are at the mythical spring, restores the youth of anyone who drinks or bathes in its waters",Press 1 to go to home 2 to go to forest 3 to go to space station,0,0,1,1,1,0
+8,sea bed,6,7,15,you need the key to get to diamond chest,"press 1 to go the hill station, 2 to go to the mythical spring, 3 to go to hidden island",0,0,1,1,1,0
+9,alien world,18,1,25,You are on alien world and at war with aliens.," Press 1 to go to the city walk, and press 2 to go to home and press 3 to go to forest.",0,0,1,0,0,0
+10,space station,1,4,11,Your space ship arrived at the space station,Press 1 to go to home 2 to go to mountain top 3 to go to red planet,0,0,1,1,0,0
+11,red planet,10,22,20,You are on red planet and have hope to see water and life on it.,Press 1 to go to the space station 2 to the hot snack 3 disco,0,0,0,1,1,0
+12,military camp,5,4,13,you are on military camp and having party with friends.,"Press 1 to go to restaurant, press 2 to go to mountain top and press 3 to go to the beach.",0,0,1,0,0,1
+13,beach,25,26,2,"You are at the beach, and enjoying the ocean view","press 1 to go to the forest, press 2 to explore the seas press 3 to go to the park",0,0,1,1,0,1
+14,tower,12,1,2,Your friends are missing and you need to find them,"press 1 to go to the military camp, press 2 to go home, press 3 to go to the park",0,0,0,0,0,0
+15,hidden island,10,12,1,"you are at hidden island, you are planning on how to overcome it","press 1 to call space station, 2 to call alien headquater and 3 to go home",0,0,1,1,0,1
+16,Parasailing,25,15,7,while parasailing you desperately look for a way out,"press 1 to go to the forest, 2 to go to hidden island, 3 to the mythical spring",0,0,1,0,0,0
+17,shaktiman,11,12,9,you and the order space pirates sought to steal the gems in the map,press 1 to go to red planet 2 to military camp or 3 to the alien world,0,0,1,0,1,0
+18,city walk,10,15,20,You are in city walk and you buy some fancy thinks,"Press 1 to go to space station. Press 2 to go to hidden island, Press 3 to go to the disco",0,0,0,0,1,1
+19,garage,27,10,20,you are at garage and just got busy with work.,"press 1 to go to go to the garage, press 2 to go to space station and press 3 to go to disco.",0,0,1,1,1,0
+20,disco,23,24,8,"You are at the disco, there is a lot of drinks and rum and you are dancing","Press 1 to go to harveys, 2 to go to pizza hut, and 3 to go to Davey jones locker",0,0,1,1,0,0
+21,fire challenge,25,19,3,in your wreckage you struggle to make out of the thick smoke,"press 1 to go to the forest, 2 to go to the garage, 3 to go to the port",0,0,0,1,0,1
+22,hot snack,29,27,23,"while enjoying your rum, you eavesdropped and heard where to find the treasure ","press 1 to go to the space restaurant, press 2 to see the alien tech, press 3 to go to harveys",0,0,1,1,1,0
+23,harveys,6,3,25,Ah an amazing taco! You enjoy the delicious and tasty treats!,"Press 1 to go to the hill station, press 2 to go to the port, press 3 to go to the jungle",0,0,0,0,1,0
+24,pizza hut,15,22,2,you are at pizza hut and enjoying double cheese on it.,"press 1 to go to hidden island, press 2 to go hot snack and press 3 to go to park.",0,0,0,0,1,0
+25,forest,7,20,14,your spaceship missed and crashed in the forest,"press 1 to go to mythical spring, 2 to go to disco or 3 to go to wonder land",0,0,0,1,0,1
+26,treasure,,,,You found the treasure of the beachs! You win!, ,1,0,0,0,0,0
+27,invisible,,,,"You know how to become invisible, you win! ", ,1,0,0,0,0,0
+28,jail,,,,"You are trapped in the jail, you lose!", ,0,1,0,0,0,0
+29,space restaurant,,,,You are worried that the aliens want to eat you! You lose!, ,0,1,0,0,0,0
